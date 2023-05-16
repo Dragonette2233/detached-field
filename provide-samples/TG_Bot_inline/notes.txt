@@ -1,0 +1,4 @@
+TG_TOKEN = 6228644430:AAGinkYTcaLij0AsdkNDa3vHpHVLD3c3P4M
+botlink = https://t.me/LeadFufo_Bot
+
+# 🔴🟠🟡🟢🔵🟣

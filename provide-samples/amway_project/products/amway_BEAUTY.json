@@ -1,0 +1,762 @@
+[
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 \"Anti Acne\"",
+        "code": "316370KZ",
+        "price": 18326.0,
+        "retailPrice": 21560.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.316370-E.jpg?context=bWFzdGVyfHJvb3R8MjAxNjQ5fGltYWdlL2pwZWd8aDNiL2gyNy8xMDI4MTE0MDA5Mjk1OC5qcGd8ODEwNDEwMjk3Mzg1YzBhN2I2MWE4OGQyOGZjYWQyYzlkNjhjYjJkNjdjYzNiOWViYTY0ZTA0ZjliOWFlZDVjNw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 \"\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435 \u0438 \u0442\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\"",
+        "code": "311411",
+        "price": 19458.0,
+        "retailPrice": 22892.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.311411-E.jpg?context=bWFzdGVyfHJvb3R8MTk2ODU0fGltYWdlL2pwZWd8aDRkL2g1Ni8xMDI4MTEzODk0NjA3OC5qcGd8YWNhYTI1ZjU3YzQ5ZTAzYTk2YmMxMTM5MGQxNjY5MzIzOGQ3N2JlMTY1N2M4MmQxOGQwZDRiOGE2MmQyZWIwMQ&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 \"\u0423\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043b\u0438\u0446\u0430 \u0438 \u043a\u043e\u0436\u0438 \u0432\u043e\u043a\u0440\u0443\u0433 \u0433\u043b\u0430\u0437\"",
+        "code": "311396",
+        "price": 29549.0,
+        "retailPrice": 34763.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.311396-E.jpg?context=bWFzdGVyfHJvb3R8MTkwMzcyfGltYWdlL2pwZWd8aDg1L2gyNy8xMDI4MTE0NDc0NjAxNC5qcGd8MjlhZTlkNDZkMTZiODhmMmI3ZGMwNDg1ZTFlYmViZmZhYjVkNzExMWUyNjc0NTA2MzQ2ZTkyZWJlMWEyMjJmZA&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u0437\u0430\u0449\u0438\u0442\u043d\u044b\u0439 \u0441\u043f\u0440\u0435\u0439 \u0434\u043b\u044f \u043b\u0438\u0446\u0430",
+        "code": "125325V",
+        "price": 9027.0,
+        "retailPrice": 10620.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.125325V.jpg?context=bWFzdGVyfHJvb3R8NjI0NjN8aW1hZ2UvanBlZ3xoODMvaDcwLzEwMjY5NDM5NTI0ODk0LmpwZ3w4MDYwNTg3Mjk3MzNjYmY5YjlmNjMxZjgyNTVkZmUwODQyNmZhYWI2MGQ5ZWQ5ZDE0YzI3MjE1NTRjOGNhZTM3&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u041c\u0438\u0446\u0435\u043b\u043b\u044f\u0440\u043d\u044b\u0435 \u0441\u0430\u043b\u0444\u0435\u0442\u043a\u0438 \u0434\u043b\u044f \u0441\u043d\u044f\u0442\u0438\u044f \u043c\u0430\u043a\u0438\u044f\u0436\u0430",
+        "code": "124811V",
+        "price": 3285.0,
+        "retailPrice": 3865.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124811V.jpg?context=bWFzdGVyfHJvb3R8OTU2NjR8aW1hZ2UvanBlZ3xoNGIvaDhjLzEwMjY5NDM3NzIyNjU0LmpwZ3wyNTFiZDM0ZGFlY2E4N2EwNDYxMzFkMzM3NDdkZjI2NWMzZDdmY2U0NDdkZjgxYjBkM2VkZTk4NTQ4MTIwMjU5&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u041e\u0441\u0432\u0435\u0436\u0430\u044e\u0449\u0438\u0435 \u0433\u0438\u0434\u0440\u043e\u0433\u0435\u043b\u0435\u0432\u044b\u0435 \u043f\u0430\u0442\u0447\u0438 \u0434\u043b\u044f \u0433\u043b\u0430\u0437 \u043f\u0440\u043e\u0442\u0438\u0432 \u043e\u0442\u0435\u043a\u043e\u0432, \u043f\u0440\u0438\u0434\u0430\u044e\u0449\u0438\u0435 \u0441\u0438\u044f\u043d\u0438\u0435",
+        "code": "124818V",
+        "price": 10043.0,
+        "retailPrice": 11815.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124818V.jpg?context=bWFzdGVyfHJvb3R8NzA5MDh8aW1hZ2UvanBlZ3xoZWIvaDFlLzEwMjY5NDM4MzEyNDc4LmpwZ3xjYjlhMmUwZWE0NmMxZmUyMzVkY2FjZjFhNWQzYWE4NjY2OWYwZGIwNmI3ZTBmZDBlYTdiOTU1NzA3NzJlMzQ3&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0430\u044f \u0441\u044b\u0432\u043e\u0440\u043e\u0442\u043a\u0430-\u0440\u043e\u043b\u043b\u0435\u0440 \u0441 \u043e\u0445\u043b\u0430\u0436\u0434\u0430\u044e\u0449\u0438\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u043c \u0434\u043b\u044f \u043a\u043e\u0436\u0438 \u0432\u043e\u043a\u0440\u0443\u0433 \u0433\u043b\u0430\u0437",
+        "code": "125964V",
+        "price": 8772.0,
+        "retailPrice": 10320.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.125964V.jpg?context=bWFzdGVyfHJvb3R8NjE0NTN8aW1hZ2UvanBlZ3xoNDcvaDBlLzEwMjY5NDQwMjEzMDIyLmpwZ3xlZTE0MGE0NDljYThlNjU0NWVmYmZhYmE2MjBiNTkzNjFkZmMxYzBmNjAxYTZiMTgyYzhlM2IyZWIzODEzYjcw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u043a\u0440\u0435\u043c \u0441 \u0430\u043d\u0442\u0438\u043e\u043a\u0441\u0438\u0434\u0430\u043d\u0442\u0430\u043c\u0438 \u00a0",
+        "code": "125966V",
+        "price": 9630.0,
+        "retailPrice": 11330.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.125966V.jpg?context=bWFzdGVyfHJvb3R8NzQ2OTF8aW1hZ2UvanBlZ3xoNjgvaGU5LzEwMjcxMzI4MTA4NTc0LmpwZ3xiNjViYzlkYjI4NGVmYjdiMmNmMjk1Y2VhN2JiNDM2Nzc4OWViZDcwMjNiMGIxM2M2ZjdkNjAwMjlkNTgyZmQ0&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u0441\u0443\u043f\u0435\u0440-\u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442 \u0434\u043b\u044f \u0441\u0438\u044f\u043d\u0438\u044f \u043a\u043e\u0436\u0438",
+        "code": "303185V",
+        "price": 10230.0,
+        "retailPrice": 12035.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.303185V34-3.jpg?context=bWFzdGVyfHJvb3R8NjY1MjR8aW1hZ2UvanBlZ3xoZjEvaDRlLzEwMjcwNDA1ODIwNDQ2LmpwZ3xmNDVlNmNlZGQ3YWZmNmQ1NWUyYzY1MGM5NTJjZmEzMzY3NzRmN2MzZWVlOGNhMDFmNmM1ZWY1NjM1NTU3MGNh&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u0413\u0435\u043b\u044c \u0434\u043b\u044f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043d\u043e\u0439 \u043a\u043e\u0436\u0438 \u043b\u0438\u0446\u0430 \u0438 \u043f\u0440\u043e\u0442\u0438\u0432 \u043d\u0435\u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432",
+        "code": "125327V",
+        "price": 5708.0,
+        "retailPrice": 6715.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.125327V-1.jpg?context=bWFzdGVyfHJvb3R8NjQ0NzR8aW1hZ2UvanBlZ3xoYjYvaDQ2LzEwMjIyNzQ4MDc0MDE0LmpwZ3w5ZTlmMzA4YmRiMzI2YmIxMDYzMWZlYWE5MThhYjRmZjljNmUwNmFmM2QwNDZjYzBiYTdhYzZmODVkNGY3MWIx&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u0422\u043e\u043d\u0438\u043a \u043f\u0440\u043e\u0442\u0438\u0432 \u043d\u0435\u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432, \u043e\u0447\u0438\u0449\u0430\u044e\u0449\u0438\u0439 \u043f\u043e\u0440\u044b",
+        "code": "124813V",
+        "price": 7450.0,
+        "retailPrice": 8765.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124813V-1.jpg?context=bWFzdGVyfHJvb3R8NTU4MDl8aW1hZ2UvanBlZ3xoZTUvaDU3LzEwMjIyNzQ2OTI3MTM0LmpwZ3wwYTlmNWUzNDQ2YzIwMzcwMTVlOWU5MmNhYzViMDE1ZmEzNGNlNmRhNjZlMmE1MTU2MTUwMTVjMWM1MTkwMzcw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY STUDIO \u0413\u0435\u043b\u044c \u0434\u043b\u044f \u0443\u043c\u044b\u0432\u0430\u043d\u0438\u044f \u0441 \u043e\u0442\u0448\u0435\u043b\u0443\u0448\u0438\u0432\u0430\u044e\u0449\u0438\u043c\u0438 \u0447\u0430\u0441\u0442\u0438\u0447\u043a\u0430\u043c\u0438",
+        "code": "124812V",
+        "price": 6133.0,
+        "retailPrice": 7215.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124812V-1.jpg?context=bWFzdGVyfHJvb3R8NjQ2MDN8aW1hZ2UvanBlZ3xoNWIvaDgzLzEwMjIyNzUyMzY2NjIyLmpwZ3xiY2MxODFjYTI4OThkNzFmYWFmZWQ4Y2RlYTg4MjRmZWIwNDFmOGVmNTRhZjUwM2EwNzc3NDQyY2Y0OTVmNTMw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 SKIN"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION C\u044b\u0432\u043e\u0440\u043e\u0442\u043a\u0430 \u0441 \u0432\u0438\u0442\u0430\u043c\u0438\u043d\u043e\u043c \u0421 \u0438 \u0433\u0438\u0430\u043b\u0443\u0440\u043e\u043d\u043e\u0432\u043e\u0439 \u043a\u0438\u0441\u043b\u043e\u0442\u043e\u0439",
+        "code": "125517V",
+        "price": 23430.0,
+        "retailPrice": 27565.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.125517V-1.jpg?context=bWFzdGVyfHJvb3R8ODIwMzh8aW1hZ2UvanBlZ3xoOTUvaGZjLzEwMTk1MDk4NzMwNTI2LmpwZ3xhMDZiYzdhZDVlNjcyNDM0NzBiNmVjMjQzNmY5OWQxZTdiNjJiYzQ4MjUxNzhiYmJlOTI5NDM0Yzk5ZDg0MmVm&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 ARTISTRY SKIN NUTRITION\u2122 C\u044b\u0432\u043e\u0440\u043e\u0442\u043a\u0430 \u0441 \u0432\u0438\u0442\u0430\u043c\u0438\u043d\u043e\u043c \u0421 \u0438 \u0433\u0438\u0430\u043b\u0443\u0440\u043e\u043d\u043e\u0432\u043e\u0439 \u043a\u0438\u0441\u043b\u043e\u0442\u043e\u0439 + Super Peptide Nutrilite\u2122",
+        "code": "315362KZ",
+        "price": 55051.0,
+        "retailPrice": 64766.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.315362-1-minus10.png?context=bWFzdGVyfHJvb3R8MjgyMDQ0fGltYWdlL3BuZ3xoNTgvaDVlLzEwMTk4MjYwMjE5OTM0LnBuZ3wxZjhhOWVjMmZiMjdkMWE3NTA4NzdiZTZkNWZhYTBkODhjYzk5MWVjN2Y4MmI0YjNkZGVlNGRiMzRmYmU5MDRh&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 ARTISTRY\u2122 \u0421\u044b\u0432\u043e\u0440\u043e\u0442\u043a\u0430 \u0441 \u0432\u0438\u0442\u0430\u043c\u0438\u043d\u043e\u043c \u0421 \u0438 \u0433\u0438\u0430\u043b\u0443\u0440\u043e\u043d\u043e\u0432\u043e\u0439 \u043a\u0438\u0441\u043b\u043e\u0442\u043e\u0439 + \u041a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442 \u0434\u043b\u044f \u043b\u0438\u0446\u0430 \u0441 \u043a\u043e\u043b\u043b\u0430\u0433\u0435\u043d\u043e\u043c \u0432 \u043a\u0430\u043f\u0441\u0443\u043b\u0430\u0445",
+        "code": "316161KZ",
+        "price": 44967.0,
+        "retailPrice": 52902.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.316161-1-minus10.png?context=bWFzdGVyfHJvb3R8MzQ3NDkxfGltYWdlL3BuZ3xoNDgvaGE0LzEwMTk4MjYwNzExNDU0LnBuZ3w2YjJjZTJkOWUwODc0MThhMDA4YzQ5ZDk3ZTRkOTQ0ZWJkYzEyZjQ0YTY5MzUzMTg2ODA3MTU2NDFkNWNkNTBk&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY GO VIBRANT\u2122 \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u0431\u0430\u043b\u044c\u0437\u0430\u043c \u0434\u043b\u044f \u0433\u0443\u0431",
+        "code": "124674D",
+        "price": 11326.0,
+        "retailPrice": 13325.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124674-2306.jpg?context=bWFzdGVyfHJvb3R8NDcwOTJ8aW1hZ2UvanBlZ3xoNzAvaGFkLzEwMDk2MTk1NjY1OTUwLmpwZ3xhMjFkMWY1OWVkNjA1NDhiYzk4ZTEzMDc3ZGJlZDg5ZWJhZGVmNGNhMzc3ZWUzOTlhNjgxNmVjMTgyODU0ZWM5&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY GO VIBRANT\u2122"
+    },
+    {
+        "name": "\u041f\u0440\u043e\u043c\u043e\u043d\u0430\u0431\u043e\u0440 \u043f\u0440\u043e\u0431\u043d\u0438\u043a\u043e\u0432 2+2 ARTISTRY SKIN NUTRITION\u2122 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u00bb",
+        "code": "314462KZ",
+        "price": 2760.0,
+        "retailPrice": 2760.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.Bundle-SKU-314462.jpg?context=bWFzdGVyfHJvb3R8MjUzNzE0fGltYWdlL2pwZWd8aDA2L2hjZi8xMDA3NDgxMDkwODcwMi5qcGd8Y2I1YTA0MTFkZWIwYzQ1NjgwMTM1MjY1ZTIwNzYxNjJlYmNmMDNmODEyYmJlNjMxZTExODZkNWM2ODljMGU1NQ&ccv=S0FaLU8=",
+        "brandName": " - "
+    },
+    {
+        "name": "\u041f\u0440\u043e\u043c\u043e\u043d\u0430\u0431\u043e\u0440 \u043f\u0440\u043e\u0431\u043d\u0438\u043a\u043e\u0432 2+2 ARTISTRY SKIN NUTRITION\u2122 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u041f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0443\u043f\u0440\u0443\u0433\u043e\u0441\u0442\u0438\u00bb",
+        "code": "314463KZ",
+        "price": 2860.0,
+        "retailPrice": 2860.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.Bundle-SKU-314463.jpg?context=bWFzdGVyfHJvb3R8MjQ2MDIxfGltYWdlL2pwZWd8aGM0L2hlMy8xMDA3NDgxMDM1MTY0Ni5qcGd8NmIzMDQwM2U2OGZmYzk0ZWMyMzlhMDMyYmYwN2UyNGM4MjdjMmVmMGM3ZDg5NjYwM2MxNDdkMjljMGY5ZWM2Nw&ccv=S0FaLU8=",
+        "brandName": " - "
+    },
+    {
+        "name": "ARTISTRY SIGNTURE SELECT \u041d\u0430\u0431\u043e\u0440 \u043f\u0440\u043e\u0431\u043d\u0438\u043a\u043e\u0432 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0434\u043b\u044f \u0442\u0435\u043b\u0430",
+        "code": "310755",
+        "price": 2365.0,
+        "retailPrice": 2365.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.Artistry-SS-body-5pr-KAZ.jpg?context=bWFzdGVyfHJvb3R8NTMxOTJ8aW1hZ2UvanBlZ3xoMGYvaDQxLzk5NzM3OTIzNDIwNDYuanBnfGUyZDkxOWZiZjE5ODg3NGQxZGUyNjhkMjlhYWUyOWUxNjNhOTY3NjZlYjkzZDg0YjJhMTcyM2EyYWUwZDljYWU&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY INTENSIVE SKINCARE \u041a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442 \u0434\u043b\u044f \u043b\u0438\u0446\u0430 \u0441 \u043a\u043e\u043b\u043b\u0430\u0433\u0435\u043d\u043e\u043c \u0432 \u043a\u0430\u043f\u0441\u0443\u043b\u0430\u0445 \u0434\u043b\u044f \u043e\u0431\u043e\u0433\u0430\u0449\u0435\u043d\u0438\u044f \u0441\u044b\u0432\u043e\u0440\u043e\u0442\u043a\u0438",
+        "code": "301507RK",
+        "price": 26533.0,
+        "retailPrice": 31215.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.301507RK-1.jpg?context=bWFzdGVyfHJvb3R8MjAxNzF8aW1hZ2UvanBlZ3xoMjkvaDAwLzk5Mjc4ODgwNDQwNjIuanBnfDVmMzg5ZDA4NDZhYTI5NGJkMjU4ZDY0MjE3MGM4Y2U0OWViYTA2Y2M4Nzg4YWE1OWI2YjNmYjVlNDY3MjM4MGY&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY INTENSIVE SKINCARE\u2122"
+    },
+    {
+        "name": "ARTISTRY INTENSIVE SKINCARE \u041d\u0430\u0431\u043e\u0440 \u0434\u043b\u044f \u043e\u0431\u043e\u0433\u0430\u0449\u0435\u043d\u0438\u044f \u0441\u044b\u0432\u043e\u0440\u043e\u0442\u043a\u0438",
+        "code": "311175",
+        "price": 37768.0,
+        "retailPrice": 44433.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.311175-1.jpg?context=bWFzdGVyfHJvb3R8MzA1NTZ8aW1hZ2UvanBlZ3xoOTEvaDY0Lzk5Mjc4ODY4OTcxODIuanBnfGMzMzIzY2RjZGQwODkwMjVkZmFlYzUxNzkxYjlmMDdjNDIxOTMyZTFkM2MzZWM2MjViMjdjYzQxZDg0YWIyYzE&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY INTENSIVE SKINCARE\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION\u2122 \u041d\u0430\u0431\u043e\u0440 \u043f\u0440\u043e\u0431\u043d\u0438\u043a\u043e\u0432 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u00bb",
+        "code": "308537",
+        "price": 1650.0,
+        "retailPrice": 1650.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.308537-set.jpg?context=bWFzdGVyfHJvb3R8NTgwMTV8aW1hZ2UvanBlZ3xoNzkvaGQ4Lzk4MDk5OTAxNTYzMTguanBnfDM2ZTg5OTQwYzljNWI2ZjNiYzE0NGY2MmE3N2FhYjQ5NTc4OTM3NjdjZjc2MzdiNzgzNGY1YzkyN2IyOGVlODc&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION\u2122 \u041d\u0430\u0431\u043e\u0440 \u043f\u0440\u043e\u0431\u043d\u0438\u043a\u043e\u0432 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u041f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0443\u043f\u0440\u0443\u0433\u043e\u0441\u0442\u0438\u00bb",
+        "code": "308538",
+        "price": 1710.0,
+        "retailPrice": 1710.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.308538-set.jpg?context=bWFzdGVyfHJvb3R8NTU3OTV8aW1hZ2UvanBlZ3xoZWUvaGUwLzk4MTAwNzA0MDUxNTAuanBnfDZiMDYzYjQ4MGU2ZDA1ZDcwYTI2YjlhNGUzODljYzY5YWFmMDA3MTkwNTY1NmU3MTU0ZWJkMmJlNDI4NDYxYjc&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041d\u0430\u0431\u043e\u0440 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u00bb \u0412\u0435\u0447\u0435\u0440\u043d\u0438\u0439 \u0443\u0445\u043e\u0434",
+        "code": "124717",
+        "price": 56664.0,
+        "retailPrice": 66663.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124717-0609.jpg?context=bWFzdGVyfHJvb3R8MTAyODk3fGltYWdlL2pwZWd8aGEwL2g3MC85NjU1OTczMDUyNDQ2LmpwZ3w5NzA5OTNiYWFmZWVjY2RkNDBmZWY4OGIyZmU3N2Q1ZmIwODEzYmNkNWU3YmQ0ZmJhOWNmMDBiMWUzMTJkYWMw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041d\u0430\u0431\u043e\u0440 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u00bb \u0414\u043d\u0435\u0432\u043d\u043e\u0439 \u0443\u0445\u043e\u0434",
+        "code": "124718",
+        "price": 57329.0,
+        "retailPrice": 67446.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124718-0609.jpg?context=bWFzdGVyfHJvb3R8MTAyODkyfGltYWdlL2pwZWd8aDg2L2gzNi85NjQwNTY1ODY2NTI2LmpwZ3w3MTliMjI4NGM3MjA1ODM5ZWE3YWZiZTdkZjQ3MjE3MjMwOGFlZWVlNzUxMTZlMTNiMjM2NjY5NTkzNTkyODc0&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041d\u0430\u0431\u043e\u0440 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u00bb \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0439 \u0443\u0445\u043e\u0434",
+        "code": "124720",
+        "price": 105310.0,
+        "retailPrice": 123894.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124720-0609.jpg?context=bWFzdGVyfHJvb3R8MTA4MjI1fGltYWdlL2pwZWd8aDYzL2gxMy85NjU2MjMxMDM0OTEwLmpwZ3w3ZGQxZjEyNGMwNGFkNmM1ODg3M2Q0MTYzN2E1MjFjNmM2MWE2ZTJhYzViYzJlYmNkMmU4ZmJiNmUyMDI0N2Yw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041d\u0430\u0431\u043e\u0440 \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0438 \u041f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0443\u043f\u0440\u0443\u0433\u043e\u0441\u0442\u0438\u00bb",
+        "code": "124827",
+        "price": 79419.0,
+        "retailPrice": 93434.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124827-609.jpg?context=bWFzdGVyfHJvb3R8MTA0NDEwfGltYWdlL2pwZWd8aDQzL2gyOS85NjU2MjMyMjgwMDk0LmpwZ3xlYzM1Y2RjZjQ4YTY0MjhkNjZkOGVmYmE0MjU5YTc4NjgxNDAzNDA0MzM1N2Q5N2YyOWM5ZjhlZDljZTM1YTlk&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041d\u0430\u0431\u043e\u0440 \u043c\u0438\u043d\u0438-\u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u041b\u0438\u0444\u0442\u0438\u043d\u0433 \u00ab\u0423\u043a\u0440\u0435\u043f\u043b\u044f\u044e\u0449\u0438\u0439 \u044d\u0444\u0444\u0435\u043a\u0442\u00bb",
+        "code": "123789V",
+        "price": 23354.0,
+        "retailPrice": 27475.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123789-1.jpg?context=bWFzdGVyfHJvb3R8MTA3NjQ4fGltYWdlL2pwZWd8aDA4L2gwNi85NjExOTg3NzE0MDc4LmpwZ3xkNzEwMDI3NWI0ODc2MzllOGI2OTY0ZjRlMjMyN2RkNTJmNzBiYzYxNDViMWYyMTA4Nzg4ZjM1MzQ0NTBhMDlm&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041d\u0430\u0431\u043e\u0440 \u043c\u0438\u043d\u0438-\u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u043f\u0440\u043e\u0442\u0438\u0432 \u043c\u043e\u0440\u0449\u0438\u043d \u00ab\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u043a\u043e\u0436\u0438\u00bb",
+        "code": "123790V",
+        "price": 22185.0,
+        "retailPrice": 26100.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123790-1-20210812.jpg?context=bWFzdGVyfHJvb3R8MTEyNDg4fGltYWdlL2pwZWd8aGY2L2hjNi85NjE4MTk4NTI4MDMwLmpwZ3w0Y2E2ODEzNjFiMDU3NWI4YzlkOGEyMTQyMDVkNDhkNjk2Y2U4ZjRkYTI2NzlmOWM1NjRiYTRkODJjODcyZmRh&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041f\u0430\u043a\u0435\u0442 ARTISTRY STUDIO LA",
+        "code": "307406",
+        "price": 1100.0,
+        "retailPrice": 1100.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.307406-bag-la-800x800-290421.jpg?context=bWFzdGVyfHJvb3R8Mzg3NTZ8aW1hZ2UvanBlZ3xoZDkvaGFmLzk1NTA1NTExNTQ3MTguanBnfGE1YjY1NWYyZWI0NmE1NDdlNDQ3NGMzOTYzNzAzMjYxZjU1YmRhMTllMmY0NTc3NzE0YmRkNWE1MmU1ZjExM2Y&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 MAKE UP"
+    },
+    {
+        "name": "ARTISTRY STUDIO Los Angeles edition \u041c\u044b\u043b\u043e-\u0441\u043a\u0440\u0430\u0431 \u0434\u043b\u044f \u0442\u0435\u043b\u0430",
+        "code": "124662D",
+        "price": 3884.0,
+        "retailPrice": 4570.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.Art-Sp2021-LA-Pacific-Wave-Polishing-Body-Bar.800-800.jpg?context=bWFzdGVyfHJvb3R8NzUyMjV8aW1hZ2UvanBlZ3xoMzEvaDEzLzk1NTAwMDAxNjA3OTguanBnfDMyZDAxYjczNzM4OWZkMmI3YTQ1MWNhMTA5M2I0ZmM3MjRlMzVlNTUwN2FlMzExNWE5NjU4YjliNzdhOGNiNTU&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 MAKE UP"
+    },
+    {
+        "name": "ARTISTRY STUDIO Los Angeles edition \u0425\u0430\u0439\u043b\u0430\u0439\u0442\u0435\u0440-\u0441\u0442\u0438\u043a \u0434\u043b\u044f \u043b\u0438\u0446\u0430",
+        "code": "124678D",
+        "price": 5950.0,
+        "retailPrice": 7000.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.Art-Sp2021-LA-Lights-Camera-Face-Stick-open.800x800.jpg?context=bWFzdGVyfHJvb3R8NjE1MDl8aW1hZ2UvanBlZ3xoYjYvaDMwLzk1NTA1NTYxMzU0NTQuanBnfGViZDg5NjlmYzI1NzA4N2ZlNWMzYzE2Mjg0NTM1MmQxYTkwZTJmOGFlZmY0NTE5YTNmYjkxYmE5ZmEwYjhiOTk&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 MAKE UP"
+    },
+    {
+        "name": "Artistry Skin Nutrition \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 \u043f\u0440\u043e\u0431\u043d\u0438\u043a\u043e\u0432 \"\u041c\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0431\u0430\u043b\u0430\u043d\u0441\"",
+        "code": "305707",
+        "price": 1405.0,
+        "retailPrice": 1405.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.305707-nabor-probnikov-kz-150321.jpg?context=bWFzdGVyfHJvb3R8MzY0ODF8aW1hZ2UvanBlZ3xoOWIvaDgzLzk1MTkzMjE2MTIzMTguanBnfGU3ZDViNGZlMzc3MzY5N2I1YWRkMmIyNTY4YjNlYWFmMjkzOTVjZGIxY2RmMjM0MjdmMDQxNzE4ZGZjN2JlZjA&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "Artistry Skin Nutrition \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 \u043f\u0440\u043e\u0431\u043d\u0438\u043a\u043e\u0432 \"\u0423\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435\"",
+        "code": "305708",
+        "price": 1405.0,
+        "retailPrice": 1405.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.305708-nabor-probnikov-uvlazhnenie-kz-150321.jpg?context=bWFzdGVyfHJvb3R8NDIwNDJ8aW1hZ2UvanBlZ3xoNjYvaDE5Lzk1MTkyOTE2NjIzNjYuanBnfGYzNzNmNzYxMjU2N2M3ZGNjY2E3YmI1NGExODViNTU3YWNjMjA2NDFkYjgzMmU1OWEyMjJkZDU2YmYzY2RiM2M&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 \u043a\u0438\u0441\u0442\u044c \u0438 \u0441\u043f\u043e\u043d\u0436 \u0437\u0430 \u043f\u043e\u043a\u0443\u043f\u043a\u0443",
+        "code": "303423RU",
+        "price": 2440.0,
+        "retailPrice": 2440.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.303423-podarochnyy-nabor-kisty-i-sponzh-za-pokupku.jpg?context=bWFzdGVyfHJvb3R8NDM3NDl8aW1hZ2UvanBlZ3xoZjkvaDZmLzkyNDA1MzU4MjY0NjIuanBnfGExZGQzODkxM2UwNjJkNWJhYWU3MTBjYWFjNDY5MDY3ZTQ5ZWI3MjE2NGUzNzY0NTg3MWVlYWIxMjljYzM3NWY&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 ARTISTRY SKIN NUTRITION \u041c\u0430\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0431\u0430\u043b\u0430\u043d\u0441",
+        "code": "124710",
+        "price": 29747.0,
+        "retailPrice": 34997.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124710-170221.jpg?context=bWFzdGVyfHJvb3R8OTUzMDh8aW1hZ2UvanBlZ3xoZWIvaDljLzk2NTYyMDA1Mjc5MDIuanBnfGE4OTE4ZDc2MGM4MTNkMzJkM2JiMzY0MDZiMzQwNWFiNjFlYzNmOWEwNDA1NmI0MGZhN2ZiYjUzYzBhZWZmY2Y&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 ARTISTRY SKIN NUTRITION \u0423\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435 \u0412\u0435\u0447\u0435\u0440\u043d\u0438\u0439 \u0443\u0445\u043e\u0434",
+        "code": "124713",
+        "price": 34498.0,
+        "retailPrice": 40586.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124713-170221.jpg?context=bWFzdGVyfHJvb3R8MTAxNTg2fGltYWdlL2pwZWd8aDgzL2gwMi85NjU2MjAxODA1ODU0LmpwZ3w3ZGZhZjBmMjQxZDJhZDczODBiM2QyMjEyZmM4MWVlZDY5YTU1OWRmMTUwMDFmZTVjODQzZTA5YTZlODhiZTVm&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 ARTISTRY SKIN NUTRITION \u0423\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435 \u0414\u043d\u0435\u0432\u043d\u043e\u0439 \u0443\u0445\u043e\u0434",
+        "code": "124714",
+        "price": 34498.0,
+        "retailPrice": 40586.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124714-170221.jpg?context=bWFzdGVyfHJvb3R8OTg2MDR8aW1hZ2UvanBlZ3xoNTIvaGRjLzk2NTYyMDAwNjkxNTAuanBnfDBhMTM5ODJlNzVlNjIwNjY0NGRmMjA0MmU0ZTE5ZjE0Y2Y2YTdiZGI3OTMxNDJkZWQ0MGI3OTE4NzVjNWViMTU&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 ARTISTRY SKIN NUTRITION \u0423\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435 \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0439 \u0443\u0445\u043e\u0434",
+        "code": "124716",
+        "price": 64046.0,
+        "retailPrice": 75348.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124716-170221.jpg?context=bWFzdGVyfHJvb3R8MTA0MTYzfGltYWdlL2pwZWd8aGI0L2hmNS85NjU2MjAxMTE3NzI2LmpwZ3wzM2I3ZDJjYjMwODIzZmEwMmIxNDFkNWJhODYwZDA1M2RjZWEyZGM5N2I3MmUyYTAwMGM4ODUwNGFkMGJlZjEz&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 \u041c\u0438\u043d\u0438 \u0421\u0440\u0435\u0434\u0441\u0442\u0432 \u201c\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435 \u0443\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435\u201d",
+        "code": "123804V",
+        "price": 15359.0,
+        "retailPrice": 18070.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123804-1-170221.jpg?context=bWFzdGVyfHJvb3R8OTgwMjl8aW1hZ2UvanBlZ3xoZDEvaGFlLzk1MDA2MTU2NzE4MzguanBnfGNkY2VhM2M4MjBmZmY2YWZmNjRjMTc4YjM4NDA4MWU1M2Q1ZTZiMDY1Yzg5NzU0OGU5OTRlM2VhM2IxYjcwZjY&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041f\u0430\u043a\u0435\u0442 ARTISTRY - \u0417\u0434\u043e\u0440\u043e\u0432\u0430\u044f \u043a\u0440\u0430\u0441\u043e\u0442\u0430",
+        "code": "305624",
+        "price": 875.0,
+        "retailPrice": 875.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.305624-ARTISTRY-Skin-Nutrition-paper-bag-110221.jpg?context=bWFzdGVyfHJvb3R8NTkyMjB8aW1hZ2UvanBlZ3xoNWIvaDkyLzk0OTY3MzU4NzUxMDIuanBnfDExNzgwY2FmOGIyOTJmODgxODVhYTA4ZTU4ODE1MTVmNTRhMzgwMTJlZTE3Y2JkZDYwMjk5ZDM0YjAzYmFjZjI&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041c\u0430\u0442\u0438\u0440\u0443\u044e\u0449\u0435\u0435 \u043e\u0447\u0438\u0449\u0430\u044e\u0449\u0435\u0435 \u0436\u0435\u043b\u0435 \u0434\u043b\u044f \u0443\u043c\u044b\u0432\u0430\u043d\u0438\u044f",
+        "code": "123792V",
+        "price": 8925.0,
+        "retailPrice": 10500.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123792-ARTISTRY-balancing-jelly-cleanser.png?context=bWFzdGVyfHJvb3R8NzU2MDl8aW1hZ2UvcG5nfGhkYy9oZGUvOTYyNjAzNjY5OTE2Ni5wbmd8OGExYjc0ZDYzZDJmNGQyMjQyNmMxOTg0MTc4ZjFhNDY0ZjgzNzBmNTNmZjliNzYzMzMyNzBkOWI1MjNjOTU3OQ&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041c\u0430\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043b\u043e\u0441\u044c\u043e\u043d \u0434\u043b\u044f \u043b\u0438\u0446\u0430 c \u0441\u043e\u043b\u043d\u0446\u0435\u0437\u0430\u0449\u0438\u0442\u043d\u044b\u043c \u0444\u0438\u043b\u044c\u0442\u0440\u043e\u043c SPF 30 UVA/UVB PA++++",
+        "code": "123799V",
+        "price": 15202.0,
+        "retailPrice": 17885.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123799-ARTISTRY-balancing-matte-day-lotion-spf-30.png?context=bWFzdGVyfHJvb3R8NjkxNDF8aW1hZ2UvcG5nfGgwMS9oNGMvOTYyNjA0MDIwNTM0Mi5wbmd8NzhkYjhhZDE3ODg2NzM5YjU5NDE2MDZkNjlhMTYyNTYzMmFmYzZjNmFjNDRjZWUzMTdjMTE5YWI4MTg0MGQ0NA&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u041c\u0430\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043e\u0441\u0432\u0435\u0436\u0430\u044e\u0449\u0438\u0439 \u0442\u043e\u043d\u0438\u043a \u0434\u043b\u044f \u043b\u0438\u0446\u0430",
+        "code": "123794V",
+        "price": 8925.0,
+        "retailPrice": 10500.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123794-ARTISTRY-balancing-fresh-shake-toner.png?context=bWFzdGVyfHJvb3R8NTk0ODJ8aW1hZ2UvcG5nfGg2Ni9oYWQvOTYyNjAzNzc4MDUxMC5wbmd8OTk2ODQ2MWZjYjVhMmM3Y2ZkNmIxNGU0Njg0ZmVhODZmNDY1NzBlMzRlM2M2Zjc0MWZmOTZjZDI3ZTBmMjk3Yw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u0421\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0441\u043d\u044f\u0442\u0438\u044f \u043c\u0430\u043a\u0438\u044f\u0436\u0430 \u0438 \u043e\u0447\u0438\u0449\u0435\u043d\u0438\u044f \u043a\u043e\u0436\u0438",
+        "code": "123791V",
+        "price": 13222.0,
+        "retailPrice": 15555.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123791-ARTISTRY-micellar-makeup-remover-cleanser.png?context=bWFzdGVyfHJvb3R8MTA1NTgzfGltYWdlL3BuZ3xoOTkvaGMzLzk2NjEwNzc4ODA4NjIucG5nfDhhZDRhMTE4MzBjMWExYjlhY2MwY2IxM2YwMjE5MzdlZjIzYzU0OWJjYjQ3YjBmNjY0ZjhkZjY1MmFiOTdiNGU&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u043a\u0440\u0435\u043c-\u0433\u0435\u043b\u044c \u0434\u043b\u044f \u0432\u0435\u043a",
+        "code": "123796V",
+        "price": 16120.0,
+        "retailPrice": 18965.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123796-ARTISTRY-solutions-1-2-eye-gel.png?context=bWFzdGVyfHJvb3R8NTUxOTZ8aW1hZ2UvcG5nfGhkMy9oOWUvOTYyNjAzODQ2ODYzOC5wbmd8N2UxNTU5NTlhYjRkNjBkMTdjMWIwOWQwMjI4YmIxNjliOWY2MmY1MjMwYzkyOGZiZTM1OWVmMDliNTU4MzcxNA&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u043b\u043e\u0441\u044c\u043e\u043d \u0434\u043b\u044f \u043b\u0438\u0446\u0430 \u0441 \u0441\u043e\u043b\u043d\u0446\u0435\u0437\u0430\u0449\u0438\u0442\u043d\u044b\u043c \u0444\u0438\u043b\u044c\u0442\u0440\u043e\u043c SPF 30 UVA/UVB PA++++",
+        "code": "123800V",
+        "price": 16711.0,
+        "retailPrice": 19660.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123800-ARTISTRY-hydrating-day-lotion-spf-30.png?context=bWFzdGVyfHJvb3R8Njc2Mzl8aW1hZ2UvcG5nfGhjYi9oNTUvOTYyNjAzOTU4Mjc1MC5wbmd8NTczZjVjMDkyM2U4OWYzNzIxZGMwYzVmMWQwZjI1MmRjNTVhM2ZjMWM0MDJmYTU0MDNiYjFkZmY5MGFlMjc4Yw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u043e\u0447\u0438\u0449\u0430\u044e\u0449\u0438\u0439 \u043c\u0443\u0441\u0441 \u0434\u043b\u044f \u0443\u043c\u044b\u0432\u0430\u043d\u0438\u044f",
+        "code": "123793V",
+        "price": 11794.0,
+        "retailPrice": 13875.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123793-ARTISTRY-hydrating-mousse-cleanser.png?context=bWFzdGVyfHJvb3R8NjA3MzN8aW1hZ2UvcG5nfGgxOS9oMWIvOTYyNjAzNTQyMTIxNC5wbmd8ZWIxZDIxMmUyZDJiNGFiOTU3Y2M2OTc2ZmVjMDRkNDJkMGEzZTI3YmRhNzg3MGIxNjRkZDY4YjQ5ZGQ1YzdjNg&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY SKIN NUTRITION \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u0441\u043c\u044f\u0433\u0447\u0430\u044e\u0449\u0438\u0439 \u0442\u043e\u043d\u0438\u043a \u0434\u043b\u044f \u043b\u0438\u0446\u0430",
+        "code": "123795V",
+        "price": 9826.0,
+        "retailPrice": 11560.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123795-ARTISTRY-hydrating-smoothing-toner.png?context=bWFzdGVyfHJvb3R8NTk5Mzl8aW1hZ2UvcG5nfGgxOC9oZTgvOTYyNjAzNzIyMzQ1NC5wbmd8M2QwMTc0YzNjYTkyNWJmMzcwOTEyNDExMDY2M2MxNjM4YjNkNzIxYjg1YmRiZjZmYzBkNGM3OGE3YTA1Y2E2Zg&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 \"\u0414\u0443\u044d\u0442 \u0434\u043b\u044f \u0433\u043b\u0430\u0437\"",
+        "code": "311400",
+        "price": 19535.0,
+        "retailPrice": 22982.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.311400-ru.jpg?context=bWFzdGVyfHJvb3R8NDY3MjZ8aW1hZ2UvanBlZ3xoZjcvaGY3Lzk4NzE0NTMyMjQ5OTAuanBnfDBhNGY5MWZhZWZiMWVjNDlmZjY4OWYzNzU3OTcxMDI1M2YwZDI5NmRkMmNhMmExODY5YWFhNjg5MDM1M2Q5YmU&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 \"\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435 \u0438 \u0443\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435\"",
+        "code": "311397",
+        "price": 19890.0,
+        "retailPrice": 23400.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.311397-ru.jpg?context=bWFzdGVyfHJvb3R8NDE5Nzd8aW1hZ2UvanBlZ3xoNDQvaGJlLzk4NzE0NTEyNTg5MTAuanBnfGI0OGE3NmUxM2RjYWFjOWJmNGVhNjA4NDc3NDkwNTE0MjA3ZDU0NWU5MTJhNmMzM2M5MmNiYWEwZGZlN2NlNDU&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SKIN NUTRITION\u2122"
+    },
+    {
+        "name": "ARTISTRY INTENSIVE SKINCARE\u2122 \u041d\u043e\u0447\u043d\u0430\u044f \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0449\u0430\u044f \u043c\u0430\u0441\u043a\u0430 \u0434\u043b\u044f \u043a\u043e\u0436\u0438 \u043b\u0438\u0446\u0430",
+        "code": "294208RU",
+        "price": 29826.0,
+        "retailPrice": 35090.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.294208-1-231220.jpg?context=bWFzdGVyfHJvb3R8NDMyMTR8aW1hZ2UvanBlZ3xoMWYvaDA0Lzk0NjkzMDUxOTI0NzguanBnfDVmZTFmZGVmYzZlYTc1Mjg2M2FjZTg2MDU1NTVhOGEwMTk3MmVhZDczNzRkMDkyMmEyMTM0ZWIyZjc0MTMxMmM&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY INTENSIVE SKINCARE\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u0410\u043d\u0442\u0438\u0446\u0435\u043b\u043b\u044e\u043b\u0438\u0442\u043d\u044b\u0439 \u041b\u043e\u0441\u044c\u043e\u043d \u0441 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u043c \u043b\u0438\u0444\u0442\u0438\u043d\u0433\u0430",
+        "code": "123861V",
+        "price": 17144.0,
+        "retailPrice": 20170.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123861-1-28102020.jpg?context=bWFzdGVyfHJvb3R8MzE1NDh8aW1hZ2UvanBlZ3xoMTcvaDc3Lzk0Mzg2NDM2MTc4MjIuanBnfDQ0MDEyMmZkZTEyMjhkNmQ2NTQ2NmU5ZmRjYTkzYjgxYzFjNjQ0MGQ0MWViYmUxYjBlZjA5ZWJmZWI4NTFmNmY&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u0417\u0430\u0449\u0438\u0442\u043d\u044b\u0439 \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u0433\u0435\u043b\u044c \u0434\u043b\u044f \u0442\u0435\u043b\u0430",
+        "code": "123858V",
+        "price": 11641.0,
+        "retailPrice": 13695.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123858-1-28102020.jpg?context=bWFzdGVyfHJvb3R8Mjk1OTN8aW1hZ2UvanBlZ3xoNjQvaDVmLzk0Mzg2MDgxOTU2MTQuanBnfDc4MmMxN2U2Y2E1NzcxNjEzZjNjZmFiZGZkNzYzNTQ0YjQ5MDMzZjhjMzI3MGMzMTIxNTNiNjhlZDUwMGVmODQ&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \u00ab\u0411\u043e\u0434\u0438 \u0444\u0438\u0442\u043d\u0435\u0441\u00bb",
+        "code": "124919",
+        "price": 42259.0,
+        "retailPrice": 49716.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124919-29102020.jpg?context=bWFzdGVyfHJvb3R8OTU4Nzd8aW1hZ2UvanBlZ3xoNTgvaDNjLzk0Mzg5NTUxNzU5NjYuanBnfDYzZTU5ODc3Zjc1M2ZlOTI2NWRjYzUwMjQ2M2Q2ZTkwNGY1YjU3MmNhMGQ4NDZlOGFiMGQ5YWUyNjVkOTAxOGE&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \u00ab\u0412\u0441\u0435 \u0438 \u0441\u0440\u0430\u0437\u0443\u00bb",
+        "code": "124903",
+        "price": 61709.0,
+        "retailPrice": 72599.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124903-29102020.jpg?context=bWFzdGVyfHJvb3R8MTAyODIwfGltYWdlL2pwZWd8aGFmL2g2Zi85NDM4OTU4MDI2NzgyLmpwZ3w5ZmZiYjNiM2UyNGM2OTMxNWI3MTg3ZGQxYTEyZDJhMGQwMTc3NjQ3MzY0YjFhNmI4ZTA3ZDYwY2IwNjBhOTE5&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \u00ab\u041d\u0435\u0436\u043d\u0435\u0435 \u0448\u0435\u043b\u043a\u0430\u00bb",
+        "code": "124902RU",
+        "price": 35802.0,
+        "retailPrice": 42120.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124902-29102020.jpg?context=bWFzdGVyfHJvb3R8OTU0NTd8aW1hZ2UvanBlZ3xoMzEvaDg5Lzk0Mzg5NzEwMzU2NzguanBnfGE3ZjkxZGVjYzAzZmQxM2MyY2Q3MjhjZjc2ZDU4NmZhZjAzMGNjZDhlYjgzZjdkZTE0ZDY0OWEwYTRkNTViYjE&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \u00ab\u041f\u0440\u043e\u0449\u0430\u0439 \u0446\u0435\u043b\u043b\u044e\u043b\u0438\u0442\u00bb",
+        "code": "124900RU",
+        "price": 37818.0,
+        "retailPrice": 44492.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124900-28102020.jpg?context=bWFzdGVyfHJvb3R8OTkwMzh8aW1hZ2UvanBlZ3xoYzIvaDQ0Lzk0Mzg5NDA5MjE4ODYuanBnfDc3MTc0NWZiODgwN2U2YzA2YmRmNGI4NzVmNmQ2ZDRhNjFiZDg3MDUzNGU0NDQ2NGVjZjlhMmUyNmE0Mjk4ODQ&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \u00ab\u0421\u0443\u043f\u0435\u0440 \u0443\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435\u00bb",
+        "code": "124901RU",
+        "price": 32864.0,
+        "retailPrice": 38664.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124901-29102020.jpg?context=bWFzdGVyfHJvb3R8OTc1NTN8aW1hZ2UvanBlZ3xoNDYvaDk4Lzk0Mzg4MDQzNzc2MzAuanBnfGQyNWE5ODUwYmFmODM4NjBjZGI1ZGNjNzZiNmY4ZGU4ZWM1ZmZmMDJlMjMwZTI4ZmRiMTBhNGNmNDQwMDYwNjI&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041e\u0442\u0448\u0435\u043b\u0443\u0448\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u0441\u043a\u0440\u0430\u0431 \u0434\u043b\u044f \u0442\u0435\u043b\u0430",
+        "code": "123860V",
+        "price": 14905.0,
+        "retailPrice": 17535.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123860-1-28102020.jpg?context=bWFzdGVyfHJvb3R8Mjk1MTB8aW1hZ2UvanBlZ3xoODgvaDY1Lzk0Mzg1ODY3MzI1NzQuanBnfDJhOGQwNmUwOGZjYjBlMTg5OWM3NjVhMTVlN2ZlMGI0Y2Q1NmVkYzA5NzEyNmRiNTAyN2Q2NjNlOWE3MmQwZmI&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041f\u0438\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043a\u0440\u0435\u043c \u0434\u043b\u044f \u0442\u0435\u043b\u0430, \u043f\u0440\u0438\u0434\u0430\u044e\u0449\u0438\u0439 \u0441\u0438\u044f\u043d\u0438\u0435",
+        "code": "123862V",
+        "price": 14905.0,
+        "retailPrice": 17535.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123862-1-28102020.jpg?context=bWFzdGVyfHJvb3R8MjQzMzV8aW1hZ2UvanBlZ3xoYjAvaGY1Lzk0Mzg2Mzk2MjAxMjYuanBnfDYzYTM0Y2E1Y2Y2MzIxYzdkYTBlMzFhNzIxNTFmODI5NDQwNTJmODMxYTdlYjhjZjFlNTdlZmMzYmU2MDQxODM&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u0421\u043c\u044f\u0433\u0447\u0430\u044e\u0449\u0438\u0439 \u041e\u0447\u0438\u0449\u0430\u044e\u0449\u0438\u0439 \u0433\u0435\u043b\u044c \u0434\u043b\u044f \u0434\u0443\u0448\u0430",
+        "code": "123859V",
+        "price": 9970.0,
+        "retailPrice": 11730.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123859-1-28102020.jpg?context=bWFzdGVyfHJvb3R8MzA1NzB8aW1hZ2UvanBlZ3xoOGQvaDI0Lzk0Mzg1ODQ4MzIwMzAuanBnfDRjNGZiMDE2NDNhM2ZmZjYwODhhODA4MTdiZDNmODU2N2Y3YjZjNmJmZDI5ODcwMTg1ZDMxZmYwZWM2ZGMzZjE&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "\u0411\u0440\u043e\u0448\u044e\u0440\u0430 ARTISTRY SIGNATURE SELECT BODY",
+        "code": "303658RU",
+        "price": 305.0,
+        "retailPrice": 305.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.artistry-body-broshure-303658ru.jpg?context=bWFzdGVyfHJvb3R8NjY0NDR8aW1hZ2UvanBlZ3xoMWEvaGU1Lzk0Mzc5NDI5Mzk2NzguanBnfDgxN2EwY2YzY2FiNTNmOWZkM2NmOWUwN2I0ZmM1NzE1N2VkZjVlOTE1ZTgzODJkMTBlZjhlY2EzZTUwZDI4ZjE&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "\u041b\u0438\u0444\u043b\u0435\u0442 ARTISTRY SIGNATURE SELECT BODY",
+        "code": "303659RU",
+        "price": 610.0,
+        "retailPrice": 610.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.artistry-body-leaflet-303659ru.jpg?context=bWFzdGVyfHJvb3R8NzMyOTZ8aW1hZ2UvanBlZ3xoM2YvaGJkLzk0MzgwMjEzMjA3MzQuanBnfGE2ODg3MDcxOWVlZDU4YjYxNTgxMzM1MmE4ZTJhMTdhZmQwNzBkNjhlMGE4NjNkOWI2NTkyYTMwMTNkNjk2YzM&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "\u041f\u0430\u043a\u0435\u0442 ARTISTRY SIGNATURE SELECT BODY+MASKS",
+        "code": "303660RU",
+        "price": 845.0,
+        "retailPrice": 845.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.303660-bag-body-1-27102020.jpg?context=bWFzdGVyfHJvb3R8Njc1MTR8aW1hZ2UvanBlZ3xoZDMvaDAwLzk0MzgwMjQ0OTkyMzAuanBnfDhiZTlhY2YwMmYzYmQyOWI2YWQ5Y2YxZWI1OTA5YjI2ODM0MDBhZWZiN2RjMmMyN2UzMTczNWUzZTAxZjhlYTI&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY STUDIO\u2122 Shanghai edition 2 \u0412 1 \u041f\u0440\u0430\u0439\u043c\u0435\u0440 \u0434\u043b\u044f \u043b\u0438\u0446\u0430, \u043c\u0430\u0442\u0438\u0440\u0443\u044e\u0449\u0438\u0439",
+        "code": "124363D",
+        "price": 12554.0,
+        "retailPrice": 14770.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124363-artistry-studio-shanghai-edtion-2-v-1-prajmer-dlya-licza-pridayushhij-siyanie-1-28092020.jpg?context=bWFzdGVyfHJvb3R8MjE4MDd8aW1hZ2UvanBlZ3xoNDkvaDQ5Lzk0MjQzMDYzMzk4NzAuanBnfGM3ZDExODgxODdiN2UxYzk1OTM2ZmEzMjU1NTU0M2JmNGZjZGViOGNmNmJlYjQxNjY4OGQzOGZhMWQ0ZTZhMzI&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 MAKE UP"
+    },
+    {
+        "name": "ARTISTRY STUDIO\u2122 Shanghai edition 2 \u0412 1 \u041f\u0440\u0430\u0439\u043c\u0435\u0440 \u0434\u043b\u044f \u043b\u0438\u0446\u0430, \u043f\u0440\u0438\u0434\u0430\u044e\u0449\u0438\u0439 \u0441\u0438\u044f\u043d\u0438\u0435",
+        "code": "124364D",
+        "price": 12554.0,
+        "retailPrice": 14770.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.124364-artistry-studio-shanghai-edtion-2-v-1-prajmer-dlya-licza-pridayushhij-siyanie-1-28092020.jpg?context=bWFzdGVyfHJvb3R8MjIwNjF8aW1hZ2UvanBlZ3xoN2QvaGFlLzk0MjQxMTM4Mjc4NzAuanBnfDQ3YmM0ZDdjZGZmNjRjY2MwMmE5ZTRlMzVkNDAxNDQzZTAzYzkxNDY1ZjBhOWQzMDUxMDliZThmM2Q3OGYxZjM&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 MAKE UP"
+    },
+    {
+        "name": "\u041f\u0430\u043a\u0435\u0442 Artistry Studio Shanghai",
+        "code": "303657RU",
+        "price": 845.0,
+        "retailPrice": 845.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.303657ru-art-studio-shanghai-bag-29092020.png?context=bWFzdGVyfHJvb3R8MzE2NjA0fGltYWdlL3BuZ3xoZWEvaDE0Lzk0MjQ2ODAxMjQ0NDYucG5nfDkzN2RkY2MzMjFkYjRjOWE4MDY0OGM4NzEzOTUyYThjMGE0MzNmYTEwNTQxZDZlZWZlNjliMjRhY2I0MzhhMWQ&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 MAKE UP"
+    },
+    {
+        "name": "ARTISTRY\u2122 Dermasonic \u041d\u0430\u0441\u0430\u0434\u043a\u0430 \u0434\u043b\u044f \u0433\u043b\u0430\u0437",
+        "code": "297979RK",
+        "price": 56274.0,
+        "retailPrice": 66205.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.297979-2-11.02.21.jpg?context=bWFzdGVyfHJvb3R8MTU5NzR8aW1hZ2UvanBlZ3xoYzAvaDhiLzk1Mjg0ODQ3MjQ3NjYuanBnfDA5YTZjYmIyZjE2ZTJjZjhmY2YzMDRlNjUwY2U4NDJkMTAzYTVmM2QwNzUzNjMyYmVhNjVlZjU4M2FlMWMzOGQ&ccv=S0FaLU8=",
+        "brandName": "DERMASONIC"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \"\u0414\u043b\u044f \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0432\u0438\u0434\u0430\u043d\u0438\u044f\"",
+        "code": "303622RU",
+        "price": 41631.0,
+        "retailPrice": 48978.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.1-303622-artistry-signature-select-nabor-dlya-idealnogo-svidaniya1.jpg?context=bWFzdGVyfHJvb3R8MTIwMjMzfGltYWdlL2pwZWd8aDcyL2g2NS85Mzc4MTk5ODk2MDk0LmpwZ3w3NDNmZmY3OTE5YTc5YmFmNWQ4ODk1NTFmMzM0NzBlNTczNWJiMWMxNmU2ZmE0M2Q0MDY3OTE4NGY1YTg2MTli&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \"\u041c\u0433\u043d\u043e\u0432\u0435\u043d\u043d\u044b\u0439 \u043b\u0438\u0444\u0442\u0438\u043d\u0433\"",
+        "code": "303621RU",
+        "price": 41631.0,
+        "retailPrice": 48978.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.1-303621-artistry-signature-select-nabor-mgnovennyj-lifting1.jpg?context=bWFzdGVyfHJvb3R8MTIyMDU4fGltYWdlL2pwZWd8aGM3L2hmZC85Mzc4MzE3Nzk1MzU4LmpwZ3wzYWI2MjM3MjQ1ZjJkZTk3ZWE4OTBhZjNlYmQ0NzBjYWQ3NzRiMGNmNWMxOWMyYTM0NTRiYzRlNjMyZWY4ODgy&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \"\u0421 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u043b\u0438\u0446\u0430\"",
+        "code": "303619RU",
+        "price": 41631.0,
+        "retailPrice": 48978.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.1-303619-artistry-signature-select-nabor-s-chistogo-licza.jpg?context=bWFzdGVyfHJvb3R8MTIzNjQzfGltYWdlL2pwZWd8aGU2L2g1Mi85Mzc4MzE1MzA0OTkwLmpwZ3wzMDlmYTdmOTNkMGI3NzAyYjBmMWFhYzNkOGQ2ZGVmMDliMWNhNDc4YjU0YjBhZTllMDQxMjU4OWViMDEyZmQw&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY SIGNATURE SELECT\u2122 \u041d\u0430\u0431\u043e\u0440 \"\u0422\u044b \u0441\u043b\u043e\u0432\u043d\u043e \u0441\u0432\u0435\u0442\u0438\u0448\u044c\u0441\u044f\"",
+        "code": "303620RU",
+        "price": 41631.0,
+        "retailPrice": 48978.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.1-303620-artistry-signature-select-nabor-ty-slovno-svetishsya1.jpg?context=bWFzdGVyfHJvb3R8MTIxMTgwfGltYWdlL2pwZWd8aDc3L2g3NC85Mzc4MzE2NzE0MDE0LmpwZ3xhZGRhNzE5MjdkMmY4YjMzNTdjY2MzMjMwMmQxZmQ1ZDk4ZGFlM2E3M2E0NGU2ZDEzYzk5ZTI1MDczYzg5NTI5&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY SIGNATURE SELECT\u2122"
+    },
+    {
+        "name": "ARTISTRY INTENSIVE SKINCARE\u2122 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 14 \u043d\u043e\u0447\u0435\u0439",
+        "code": "123776V",
+        "price": 71226.0,
+        "retailPrice": 83795.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.123776-1-11.02.21.jpg?context=bWFzdGVyfHJvb3R8MjQ0NDB8aW1hZ2UvanBlZ3xoMTAvaDMzLzk1Mjk0NzI5MDkzNDIuanBnfDI2ZTBiZjg0NmM3MWEzODU0M2ViZjI3ZmZhNDk4ZjYxM2QzMjQzZmI2MjRhZTJlZThlMjU0M2NmZDBmNzM4NTE&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY INTENSIVE SKINCARE\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 ARTISTRY\u2122\u0434\u043b\u044f \u043c\u0430\u043a\u0438\u044f\u0436\u0430 \u0433\u043b\u0430\u0437",
+        "code": "303436RU",
+        "price": 16528.0,
+        "retailPrice": 19445.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.800x800-303436.jpg?context=bWFzdGVyfHJvb3R8MzA3OTh8aW1hZ2UvanBlZ3xoNmEvaDc3LzkzMDM4NDY0MjA1MTAuanBnfDRjNDQ5MTIzMDQ5ZDBjNWI0ODU0ZjcwY2M3YzU3NDk1NDk3MmQ0M2Q3ZGY5ZjUwYzkwZDcyY2ViMGVkMjY3NWI&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 essentials by ARTISTRY\u2122",
+        "code": "303438RU",
+        "price": 8480.0,
+        "retailPrice": 9977.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.800x800-303438.jpg?context=bWFzdGVyfHJvb3R8MzQzMTZ8aW1hZ2UvanBlZ3xoZjEvaGJkLzkzMDM4NDE4MDAyMjIuanBnfDM2YWM4NzUxZWQ4Yjg4NGI4Y2EyN2ZhYzRjYjViNjE3MDcyOGIyMDQ3MWVhMTEzODg1ZjQ1YzhjNzdjNDdhZGU&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 ANCESTRYTM",
+        "code": "303425RU",
+        "price": 8866.0,
+        "retailPrice": 10431.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.800x800-303425.jpg?context=bWFzdGVyfHJvb3R8MzI0Njl8aW1hZ2UvanBlZ3xoM2QvaGQ5LzkzMDM4MDY1MDkwODYuanBnfDdiMTJhNTVhZmY1MWJkOGQ0YzIzMTE4ZjY2MDk1ZGZhZWEwZTcxYTA5NGUwMTQ2ZWFmMTg1MzQzY2M5ZTQyZjA&ccv=S0FaLU8=",
+        "brandName": "\u0410\u0440\u043e\u043c\u0430\u0442\u044b AMWAY\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 ARTISTRY FloraChicTM",
+        "code": "303426RU",
+        "price": 23199.0,
+        "retailPrice": 27293.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.800x800-303426.jpg?context=bWFzdGVyfHJvb3R8MzMyMjB8aW1hZ2UvanBlZ3xoMzUvaGUxLzkzMDM4MDU3MjI2NTQuanBnfDYyZThiNTYxOGI1NDBjYzkwNzViMzYwYzExMmZkMmZhMjMzMGRlZWViMTUyMGNiZjhjYTMzNGU0YzlhMTAwMWI&ccv=S0FaLU8=",
+        "brandName": "\u0410\u0440\u043e\u043c\u0430\u0442\u044b AMWAY\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 ARTISTRY Men UnknownTM",
+        "code": "303427RU",
+        "price": 20545.0,
+        "retailPrice": 24170.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.800x800-303427.jpg?context=bWFzdGVyfHJvb3R8MjY5NTZ8aW1hZ2UvanBlZ3xoZWMvaDI5LzkzMDM4NDQxMjY3NTAuanBnfDdkMWMyOWJhYjY0OGY3NDFiM2Q3MDRkZTg1ZGI5ZWE2MGRmMTcxOThkZjhhNzgxYWNmM2NjMDZjOTU4YjljNDM&ccv=S0FaLU8=",
+        "brandName": "\u0410\u0440\u043e\u043c\u0430\u0442\u044b AMWAY\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 ARTISTRY\u2122\u0438 G&H\u2122 \u0434\u043b\u044f \u0437\u0430\u0449\u0438\u0442\u044b \u0433\u0443\u0431 \u0438 \u043a\u043e\u0436\u0438 \u0440\u0443\u043a",
+        "code": "303437RU",
+        "price": 13537.0,
+        "retailPrice": 15926.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.800x800-303437.jpg?context=bWFzdGVyfHJvb3R8MzIyMjV8aW1hZ2UvanBlZ3xoYTgvaDAyLzkzMDM4NDIzOTAwNDYuanBnfDFlMjEyYzZlMzlkMjRhNTFlNjNmODNlZWJjZDEyMTYwODJmYzUxMjUyZWIyZjgzNTc5NjZlY2YyMzhjZTRlMWE&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 HYMM\u2122",
+        "code": "303429RU",
+        "price": 11701.0,
+        "retailPrice": 13766.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.800x800-303429.jpg?context=bWFzdGVyfHJvb3R8MjkwOTV8aW1hZ2UvanBlZ3xoMGUvaDdmLzkzMDM4MDc2ODg3MzQuanBnfDNjNDM3MjIzOTRkZGEyYjI4ODNmOWZhZTIxZTNhNzZhMWYxZTg5MWNmZGU5Y2YzNWQ4Mjk4NGZjN2FjMjFkMzg&ccv=S0FaLU8=",
+        "brandName": "\u0410\u0440\u043e\u043c\u0430\u0442\u044b AMWAY\u2122"
+    },
+    {
+        "name": "ARTISTRY STUDIO\u2122 Parisian style edition \u00ab\u0411\u043e\u043c\u0431\u043e\u0447\u043a\u0438\u00bb \u0434\u043b\u044f \u0432\u0430\u043d\u043d\u044b",
+        "code": "122590D",
+        "price": 6494.0,
+        "retailPrice": 7640.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.122590-2-artistry-studio-parisian-style-edition-bombochki-dlya-vanny.jpg?context=bWFzdGVyfHJvb3R8MTc0NDJ8aW1hZ2UvanBlZ3xoZGIvaDI1LzkyNjk3NTAzOTkwMDYuanBnfDU0ZjEzZjIyOGZhZGI4N2UzMzlmMWFkNDYxZGVkYzBmMzhhN2I2MzQwY2UxOTBhYjY5MGI4ZDBjOGFkNmQ0ZGY&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY STUDIO\u2122 MAKE UP"
+    },
+    {
+        "name": "essentials by ARTISTRY\u2122 \u041d\u0430\u0431\u043e\u0440 \u041e\u0441\u043d\u043e\u0432\u0430 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0433\u043e \u0443\u0445\u043e\u0434\u0430 \u0434\u043b\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u043a\u043e\u0436\u0438",
+        "code": "122303",
+        "price": 13655.0,
+        "retailPrice": 16065.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.122303-Young-skin-basic-skin-care-bundle-2020.jpg?context=bWFzdGVyfHJvb3R8MzYyOTh8aW1hZ2UvanBlZ3xoNTYvaDE4LzkzNTUwMjM2Nzk1MTguanBnfGQxMzI3YmUyZTNkMjFmNDBhOTMxMjBiZjc5MzIwMWY4ODJjOTdmNjYwZjNlMWQ0YTg2YzAwNTY5ZGQzYmE2Mjg&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "ARTISTRY INTENSIVE SKIN CARE\u2122 \u041d\u0430\u0431\u043e\u0440 \u0414\u0435\u0442\u043e\u043a\u0441 \u0434\u043b\u044f \u043a\u043e\u0436\u0438",
+        "code": "303253RU",
+        "price": 41386.0,
+        "retailPrice": 48690.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.303253-artistry-intensive-skin-care-nabor-detoks-dlya-kozhi.jpg?context=bWFzdGVyfHJvb3R8NDY4Njd8aW1hZ2UvanBlZ3xoZjMvaDAxLzkxNjgyNzc3MDA2MzguanBnfGY5N2VhNmU5YTlhZTNmMTBlYTFhZGYwMTIxYzc2NDU5ZGQ4NWI2MzhlOTQzNWIzNTk5OWM4NjRkZTllNDZjMDk&ccv=S0FaLU8=",
+        "brandName": "ARTISTRY INTENSIVE SKINCARE\u2122"
+    },
+    {
+        "name": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043f\u0430\u043a\u0435\u0442 ARTISTRY Men Unknown\u2122",
+        "code": "302829RU",
+        "price": 470.0,
+        "retailPrice": 470.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.302829-Podarochny-paket-ARTISTRY-Men-Unknown-800x800.jpg?context=bWFzdGVyfHJvb3R8Mzc5NjV8aW1hZ2UvanBlZ3xoYzcvaDk0LzkyNjk5OTgzMjE2OTQuanBnfDlhODQ3YzQ0NTRlNWMxNWYzZmJjZjczNjFkNGZlNDNiYTNhMzcwMTQ0YWNkZmI0YWMxMDJmOTNkMjVhMTQ5ZWY&ccv=S0FaLU8=",
+        "brandName": " - "
+    },
+    {
+        "name": "ARTISTRY\u2122 Men Unknown\u2122 \u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+        "code": "120549D",
+        "price": 32002.0,
+        "retailPrice": 37650.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.120549-3-15.02.21.jpg?context=bWFzdGVyfHJvb3R8MzQ1ODF8aW1hZ2UvanBlZ3xoNjMvaDQ2Lzk1MjUyMDEwMTA3MTguanBnfDczNjkwZWYzMjI4NWJmNzg1YmQyMzIxNDhhMjUxNmJiMGUzZDBmNmYyMjgxYTg0NTZiMTEyYTRmMTE1Y2FkODY&ccv=S0FaLU8=",
+        "brandName": "\u0410\u0440\u043e\u043c\u0430\u0442\u044b AMWAY\u2122"
+    },
+    {
+        "name": "ARTISTRY\u2122 Dermasonic \u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u043f\u043f\u0430\u0440\u0430\u0442 \u043f\u043e \u0443\u0445\u043e\u0434\u0443 \u0437\u0430 \u043a\u043e\u0436\u0435\u0439 \u043b\u0438\u0446\u0430",
+        "code": "122147RK",
+        "price": 143977.0,
+        "retailPrice": 169385.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.122147-1-11.02.21.jpg?context=bWFzdGVyfHJvb3R8MTU5MzB8aW1hZ2UvanBlZ3xoZTIvaDRiLzk1Mjg4NDQ1NTAxNzQuanBnfGVkMTM0NTMxZmViNzc4YjM5NmIwNzdkZDQ1YjM3MmNiZjYxODY0YTAwYjEzMDljNmU0ZTU1MzEzYWZhZmJiYjc&ccv=S0FaLU8=",
+        "brandName": "DERMASONIC"
+    },
+    {
+        "name": "essentials by ARTISTRY\u2122 \u0413\u0435\u043b\u044c \u0434\u043b\u044f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043d\u043e\u0439 \u043a\u043e\u0436\u0438 \u043b\u0438\u0446\u0430",
+        "code": "121658V",
+        "price": 4832.0,
+        "retailPrice": 5685.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.121658-1-11.02.21.jpg?context=bWFzdGVyfHJvb3R8MjE5NTh8aW1hZ2UvanBlZ3xoYjkvaDk0Lzk1Mjg4MzY0MjM3MTAuanBnfGRkZDM0NDIxMWI1OWUwMzM2ZTI3NTY3NzE2NWY3ZGFlNjQ2NTliY2YyN2JlNjEzZDFlYjgzNzFiMjRiOTZkZTc&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "essentials by ARTISTRY\u2122 \u041d\u0430\u0431\u043e\u0440 \u0434\u043b\u044f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043d\u043e\u0439 \u043a\u043e\u0436\u0438",
+        "code": "303254RU",
+        "price": 15679.0,
+        "retailPrice": 18446.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.303254-essentials-by-artistry-nabor-dlya-ukhoda-za-problemnoy-kozhey-litsa.jpg?context=bWFzdGVyfHJvb3R8NTQ4Njd8aW1hZ2UvanBlZ3xoMzUvaGFhLzkxNjgyNzY3MTc1OTguanBnfDNhYWU4ZDBjZDY2ODljY2RhYTE5ZGViZTQ0YmRjZGFjYWJiYTNlMDBmYzZjY2ZhY2U4YjczNThiNmIyOWViOWU&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "essentials by ARTISTRY\u2122 \u041e\u0441\u0432\u0435\u0436\u0430\u044e\u0449\u0438\u0439 \u0442\u043e\u043d\u0438\u043a \u0434\u043b\u044f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043d\u043e\u0439 \u043a\u043e\u0436\u0438 \u043b\u0438\u0446\u0430",
+        "code": "121657V",
+        "price": 5797.0,
+        "retailPrice": 6820.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.121657-1-11.02.21.jpg?context=bWFzdGVyfHJvb3R8MTY5MTZ8aW1hZ2UvanBlZ3xoZGMvaGJhLzk1Mjg3OTYzODEyMTQuanBnfDFlMTg0ZTE5OGZmZWQyNDZiOTFmODA1MDZhNDcwMWVhMGRiOWViYzI3YjRkN2I3MWE1MDRkMjY5NDI1NTdiYjg&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "HYMM\u2122 \u0422\u0443\u0430\u043b\u0435\u0442\u043d\u0430\u044f \u0432\u043e\u0434\u0430 \u0434\u043b\u044f \u043c\u0443\u0436\u0447\u0438\u043d",
+        "code": "118871",
+        "price": 23001.0,
+        "retailPrice": 27060.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.118871-3-15.02.21.jpg?context=bWFzdGVyfHJvb3R8MzI2MjB8aW1hZ2UvanBlZ3xoY2EvaDBjLzk1MjQyMjk3MDE2NjIuanBnfGFmMWZkZDA1MWUwNzkzNmNmOTU3NGExMDM1YTk3MjhjMTAwMzQwNTdlODkxODJmZTZhZmQyNjhkZDY1OTNkNjU&ccv=S0FaLU8=",
+        "brandName": "HYMM\u2122 \u0434\u043b\u044f \u043c\u0443\u0436\u0447\u0438\u043d"
+    },
+    {
+        "name": "essentials by ARTISTRY\u2122 \u0423\u0432\u043b\u0430\u0436\u043d\u044f\u044e\u0449\u0438\u0439 \u043a\u0440\u0435\u043c",
+        "code": "121693V",
+        "price": 8402.0,
+        "retailPrice": 9885.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.121693-1-11.02.21.jpg?context=bWFzdGVyfHJvb3R8MjA2MjB8aW1hZ2UvanBlZ3xoNzQvaGM0Lzk1Mjg4MDA0NzcyMTQuanBnfDc5MTYxNmQ0MjQ1Zjc0NjdjNjcwYzFhMDJkNjc1M2Y5ZWRiZjc3MjE1OWRkNDA5ODNmMDE1ZjFkNjgxMjFmYWM&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "\u041d\u0430\u0431\u043e\u0440 \"\u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435 \u0438 \u0443\u0432\u043b\u0430\u0436\u043d\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u043a\u043e\u0436\u0438\"",
+        "code": "311412",
+        "price": 9789.0,
+        "retailPrice": 11516.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.311412-ru.jpg?context=bWFzdGVyfHJvb3R8NDY1NTV8aW1hZ2UvanBlZ3xoNjcvaDBjLzk4NzE0NTcwNTg4NDYuanBnfDhjODQxNDRlNWY4YWFhMzk2ZGRhMzkyOTdkYjZlNjlhY2RiZTNkODJiMTE0YjNlNWU5Y2UzZTI4MTQ1N2NmZGU&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "essentials by ARTISTRY\u2122 \u0411\u0430\u0437\u043e\u0432\u044b\u0439 \u0443\u0445\u043e\u0434 \u0434\u043b\u044f \u043a\u043e\u0436\u0438 \u0441 \u0441\u043e\u043b\u043d\u0446\u0435\u0437\u0430\u0449\u0438\u0442\u043d\u044b\u043c \u043b\u043e\u0441\u044c\u043e\u043d\u043e\u043c SPF 30",
+        "code": "303382RU",
+        "price": 13193.0,
+        "retailPrice": 15521.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.303382-essentials-by-artistry-bazovyy-ukhod-dlya-kozhi-s-solntsezaschitnym-losyonom-spf-30.jpg?context=bWFzdGVyfHJvb3R8NDA3MDN8aW1hZ2UvanBlZ3xoOTYvaDkyLzkxNjk2MzI3NTU3NDIuanBnfDhmZGQwZTA2OTc4NzcyN2IwZWZhOWE0MTM1NDVhMzI0YmFhMjk4ODAyNGU4YTNkNDdjMDQ2YzM3NzFkZTE1MDI&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    },
+    {
+        "name": "essentials by ARTISTRY\u2122 \u0421\u0430\u043b\u0444\u0435\u0442\u043a\u0438 \u0434\u043b\u044f \u0441\u043d\u044f\u0442\u0438\u044f \u043c\u0430\u043a\u0438\u044f\u0436\u0430",
+        "code": "121549V",
+        "price": 3430.0,
+        "retailPrice": 4035.0,
+        "imageUrl": "https://www.kz.amway.com//common/medias/EIA.w600.h600.121549-1-11.02.21.jpg?context=bWFzdGVyfHJvb3R8MzI2OTJ8aW1hZ2UvanBlZ3xoNDIvaGJmLzk1Mjg4NTgwMTc4MjIuanBnfGY1MjU2ODZmMWQ4YzIzZWVmYTZkMDM0ZDdhYmE5ZGJiZDQ0MmZjOWJmNTI0YmQ4MjJmZTYyMzdmN2EyMTgxMWE&ccv=S0FaLU8=",
+        "brandName": "essentials by ARTISTRY\u2122"
+    }
+]

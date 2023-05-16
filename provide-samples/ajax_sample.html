@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flask AJAX Example</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <h1>Flask AJAX Example</h1>
+  <div id="info"></div>
+  <script>
+    $(document).ready(function() {
+      setInterval(function() {
+        $.ajax({
+          url: "/get_info",
+          success: function(data) {
+            $("#info").text(data);
+          }
+        });
+      }, 2500);
+    });
+  </script>
+  <button>
+    Hello
+  </button>
+</body>
+</html>
